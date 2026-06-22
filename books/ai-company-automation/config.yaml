@@ -1,0 +1,5 @@
+title: "Claude Code で作る AI 自動化会社 完全解説"
+summary: "16エージェント×VPS×PM2の実録。実際に動いているシステムのコードと設定をそのまま公開。ChatGPTやGeminiのAPI使い方記事ではなく、本物の自動化会社を作った記録です。"
+topics: ["claudecode", "ai", "automation", "vps", "pm2"]
+published: true
+price: 4980
