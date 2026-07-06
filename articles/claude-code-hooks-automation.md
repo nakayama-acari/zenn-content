@@ -144,3 +144,4 @@ if (foundCorrection) {
 **[Claude Code で作る AI 自動化会社 完全解説](https://zenn.dev/nakayama_acari/books/ai-company-automation)**（¥4,980）
 
 架空のサンプルコードではなく、今この瞬間動いているVPS上のファイルをそのまま載せている。
+
