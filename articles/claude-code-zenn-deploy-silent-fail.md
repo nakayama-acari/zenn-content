@@ -1,5 +1,5 @@
 ---
-title: "GitHubにpushが成功しても、Zennの記事は20日間公開されていなかった — silent failの検出とPlaywrightによる確認スクリプト"
+title: "GitHubにpush成功でもZennに記事が公開されない理由と確認スクリプト"
 emoji: "🔴"
 type: "tech"
 topics: ["claudecode", "zenn", "github", "playwright", "automation"]
